@@ -27,5 +27,5 @@ La rotazione viene applicata tramite variabili CSS (`--rotation`).
 ![Anteprima progetto](Orologio.png)
 
 ## 🔗 Demo
-(Aggiungi qui il link GitHub Pages)
+[(Demo)](https://orologiojavascript.netlify.app/)
 
